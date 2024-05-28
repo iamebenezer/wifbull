@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: itim;
+  src: url(/src/assets/font/itim.ttf);
+}
+@font-face {
+  font-family: jeju;
+  src: url(/src/assets/font/jeju.ttf);
+}
